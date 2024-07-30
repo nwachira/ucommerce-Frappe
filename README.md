@@ -4,4 +4,4 @@ an app to integrate with erpnext and nextjs to create a sophisticated ecommerce 
 
 #### License
 
-gpl-2.0
+gpl-2.0# ucommerce-Frappe
